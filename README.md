@@ -7,6 +7,7 @@
 * Participant: Xuan Yang
 * References: Prof. Shivraj Kanungo, Prof. Philip W. Wirtz
 * Dataset: [ccrb_datatransparencyinitiative_20170207.xlsx](ccrb_datatransparencyinitiative_20170207.xlsx)
+* Size of Dataset: 15.6MB
 * Object: To explore data from the NYC Data Transparnecy Initiative. They maintain a database of complaints that fall within the Civilian Complain Review Board (CCRB), an independent municiple agency. Your objective is to identify interesting patterns and trends within the data that may be indicative of large scale trends.
 * Scripts: [Script.R](Script.R)
 
